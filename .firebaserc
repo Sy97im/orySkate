@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "skate-7556b": {
+      "hosting": {
+        "orySkate": [
+          "skate-7556b"
+        ]
+      }
+    }
+  }
+}
